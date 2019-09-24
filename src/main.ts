@@ -5,5 +5,5 @@ canvas.height = 500;
 canvas.setAttribute("style", "border:1px solid #666666");
 
 window.onload = () => {
-	console.log("Hello World");
+	console.log("Hello W");
 };
